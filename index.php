@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>LoveUs - Charity and Fundraising HTML Template | Home Page 01</title>
+    <title>Tara Mangal Foundation | Home Page 01</title>
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -31,202 +31,10 @@
         </div>
 
         <!-- Main Header -->
-        <header class="main-header">
-            <!-- Header Top -->
-            <div class="header-top">
-                <div class="auto-container">
-                    <div class="inner clearfix">
-                        <div class="top-left">
-                            <ul class="social-links clearfix">
-                                <li class="social-title">Follow Us:</li>
-                                <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
-                                <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-                                <li><a href="#"><span class="fab fa-linkedin-in"></span></a></li>
-                                <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
-                            </ul>
-                        </div>
-
-                        <div class="top-right">
-                            <ul class="info clearfix">
-                                <li class="search-btn"><button type="button" class="theme-btn search-toggler"><span class="fa fa-search"></span></button></li>
-                                <li><a href="tel:12345615523"><span class="icon fa fa-phone-alt"></span> Call: &nbsp;123 4561 5523</a></li>
-                                <li><a href="mailto:info@templatepath.com"><span class="icon fa fa-envelope"></span> Email: &nbsp;info@loveuscharity.com</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Header Upper -->
-            <div class="header-upper">
-                <div class="auto-container">
-                    <div class="inner-container clearfix">
-                        <!--Logo-->
-                        <div class="logo-box">
-                            <div class="logo">
-                                <a href="index.html" title="LoveUs - Charity and Fundraising HTML Template"><img src="images/logo.png" alt="LoveUs - Charity and Fundraising HTML Template" title="LoveUs - Charity and Fundraising HTML Template"></a>
-                            </div>
-                        </div>
-
-                        <!--Nav Box-->
-                        <div class="nav-outer clearfix">
-                            <!--Mobile Navigation Toggler-->
-                            <div class="mobile-nav-toggler"><span class="icon flaticon-menu-1"></span></div>
-
-                            <!-- Main Menu -->
-                            <nav class="main-menu navbar-expand-md navbar-light">
-                                <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
-                                    <ul class="navigation clearfix">
-                                        <li class="current dropdown"><a href="index.html">Home</a>
-                                            <ul>
-                                                <li><a href="index.html"> 01</a></li>
-                                                <li><a href="index-2.html">Home page 02</a></li>
-                                                <li><a href="index-3.html">Home page 03</a></li>
-                                                <li><a href="index-4.html"> 04</a></li>
-                                                <li><a href="index-5.html">sALONI</a></li>
-                                                <li><a href="index-6.html">Home page 06</a></li>
-                                                <li><a href="index-6.html">Home page 06</a></li>
-                                                <li><a href="index-7.html">Home page 07</a></li>
-                                                <li><a href="index-8.html">Home page 08</a></li>
-                                                <li class="dropdown"><a href="index.html">Header Styles</a>
-                                                    <ul>
-                                                        <li><a href="index.html">Header Style One</a></li>
-                                                        <li><a href="index-2.html">Header Style Two</a></li>
-                                                        <li><a href="index-3.html">Header Style Three</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="about.html">About</a>
-                                            <ul>
-                                                <li><a href="about.html">About Us</a></li>
-                                                <li><a href="services.html">Our Services</a></li>
-                                                <li><a href="volunteers.html">Our Volunteers</a></li>
-                                                <li><a href="faq.html">Faq's</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="causes.html">Causes</a>
-                                            <ul>
-                                                <li><a href="causes.html">Causes</a></li>
-                                                <li><a href="cause-single.html">Cause Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="donate.html">Pages</a>
-                                            <ul>
-                                                <li><a href="events.html">Events</a></li>
-                                                <li><a href="event-single.html">Event Details</a></li>
-                                                <li><a href="portfolio.html">Portfolio</a></li>
-                                                <li class="dropdown"><a href="shop.html">Shop</a>
-                                                    <ul>
-                                                        <li><a href="shop.html">Products</a></li>
-                                                        <li><a href="product-details.html">Product Details</a></li>
-                                                        <li><a href="shopping-cart.html">Shopping Cart</a></li>
-                                                        <li><a href="checkout.html">Checkout</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="donate.html">Make Donation</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="blog.html">Blog</a>
-                                            <ul>
-                                                <li><a href="blog.html">Our Blog</a></li>
-                                                <li><a href="blog-single.html">Blog Single</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                    </ul>
-                                </div>
-                            </nav>
-                            <!-- Main Menu End-->
-
-                            <div class="link-box clearfix">
-                                <div class="donate-link"><a href="donate.html" class="theme-btn btn-style-one"><span class="btn-title">Donate Now</span></a></div>
-                                <div class="cart-link"><a href="shopping-cart.html" class="theme-btn"><span class="icon flaticon-paper-bag"></span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End Header Upper-->
-
-            <!-- Sticky Header  -->
-            <div class="sticky-header">
-                <div class="auto-container clearfix">
-                    <!--Logo-->
-                    <div class="logo pull-left">
-                        <a href="index.html" title=""><img src="images/sticky-logo.png" alt="" title=""></a>
-                    </div>
-                    <!--Right Col-->
-                    <div class="pull-right">
-                        <!-- Main Menu -->
-                        <nav class="main-menu clearfix">
-                            <!--Keep This Empty / Menu will come through Javascript-->
-                        </nav>
-                        <!-- Main Menu End-->
-                    </div>
-                </div>
-            </div>
-            <!-- End Sticky Menu -->
-
-            <!-- Mobile Menu  -->
-            <div class="mobile-menu">
-                <div class="menu-backdrop"></div>
-                <div class="close-btn"><span class="icon flaticon-cancel"></span></div>
-
-                <nav class="menu-box">
-                    <div class="nav-logo">
-                        <a href="index.html"><img src="images/logo.png" alt="" title=""></a>
-                    </div>
-                    <div class="menu-outer">
-                        <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
-                    </div>
-                    <!--Social Links-->
-                    <div class="social-links">
-                        <ul class="clearfix">
-                            <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-                            <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
-                            <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
-                            <li><a href="#"><span class="fab fa-instagram"></span></a></li>
-                            <li><a href="#"><span class="fab fa-youtube"></span></a></li>
-                        </ul>
-                    </div>
-                </nav>
-            </div>
-            <!-- End Mobile Menu -->
-        </header>
+        <?php   include "header.php"  ?>
         <!-- End Main Header -->
 
         <!--Search Popup-->
-        <div id="search-popup" class="search-popup">
-            <div class="close-search theme-btn"><span class="flaticon-cancel"></span></div>
-            <div class="popup-inner">
-                <div class="overlay-layer"></div>
-                <div class="search-form">
-                    <form method="post" action="index.html">
-                        <div class="form-group">
-                            <fieldset>
-                                <input type="search" class="form-control" name="search-input" value="" placeholder="Search Here" required>
-                                <input type="submit" value="Search Now!" class="theme-btn">
-                            </fieldset>
-                        </div>
-                    </form>
-
-                    <br>
-                    <h3>Recent Search Keywords</h3>
-                    <ul class="recent-searches">
-                        <li><a href="#">Finance</a></li>
-                        <li><a href="#">Idea</a></li>
-                        <li><a href="#">Service</a></li>
-                        <li><a href="#">Growth</a></li>
-                        <li><a href="#">Plan</a></li>
-                    </ul>
-
-                </div>
-
-            </div>
-        </div>
-
-
         <!-- Banner Section -->
         <section class="banner-section">
             <div class="banner-carousel love-carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 300, "responsive":{ "0" :{ "items": "1" }, "768" :{ "items" : "1" } , "1000":{ "items" : "1" }}}'>
@@ -274,164 +82,214 @@
         <!--End Banner Section -->
 
         <!--About Section-->
-        <section class="about-section">
-            <div class="top-rotten-curve"></div>
-            <div class="bottom-rotten-curve"></div>
-            <div class="circle-one"></div>
-            <div class="circle-two"></div>
+        <section class="about-section style-three">
+        <div class="top-rotten-curve"></div>
+        <div class="circle-one"></div>
 
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <!--Left Column-->
-                    <div class="left-column col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner">
-                            <div class="sec-title">
-                                <div class="sub-title">About Us</div>
-                                <h2>You Can Help The Poor</h2>
-                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-                                <div class="link-box clearfix"><a href="causes.html" class="theme-btn btn-style-one"><span class="btn-title">Read More</span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Right Column-->
-                    <div class="right-column col-lg-6 col-md-12 col-sm-12">
-                        <div class="inner">
-                            <div class="row clearfix">
-                                <!--About Feature-->
-                                <div class="about-feature col-md-6 col-sm-12">
-                                    <div class="inner-box wow fadeInUp">
-                                        <div class="icon-box"><span class="flaticon-user"></span></div>
-                                        <h4>Become Volunteer</h4>
-                                        <a href="#" class="over-link"></a>
-                                    </div>
-                                </div>
-                                <!--About Feature-->
-                                <div class="about-feature col-md-6 col-sm-12">
-                                    <div class="inner-box wow fadeInUp" data-wow-delay="300ms">
-                                        <div class="icon-box"><span class="flaticon-heart-2"></span></div>
-                                        <h4>Quick Fundraise</h4>
-                                        <a href="#" class="over-link"></a>
-                                    </div>
-                                </div>
-                                <!--About Feature-->
-                                <div class="about-feature col-md-6 col-sm-12">
-                                    <div class="inner-box wow fadeInUp">
-                                        <div class="icon-box"><span class="flaticon-coin-2"></span></div>
-                                        <h4>Give Donation</h4>
-                                        <a href="#" class="over-link"></a>
-                                    </div>
-                                </div>
-                                <!--About Feature-->
-                                <div class="about-feature col-md-6 col-sm-12">
-                                    <div class="inner-box wow fadeInUp" data-wow-delay="300ms">
-                                        <div class="icon-box"><span class="flaticon-care"></span></div>
-                                        <h4>Become Volunteer</h4>
-                                        <a href="#" class="over-link"></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+        <div class="auto-container">
+          <div class="row clearfix">
+            <!--Left Column-->
+            <div class="left-column col-lg-5 col-md-12 col-sm-12">
+              <div class="inner">
+                <div class="sec-title">
+                  <div class="sub-title">About Us</div>
+                  <h2>Donate Clean Water</h2>
+                  <div class="text">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit sed
+                    do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua enim ad minim veniam quis nostrud exercitation
+                    ullamco laboris nisi ut aliquip commodo consequat duis aute
+                    irure dolor in repre henderit volupte velit esse.
+                  </div>
+                  <div class="link-box clearfix">
+                    <a href="about.html" class="theme-btn btn-style-one"
+                      ><span class="btn-title">Read More</span></a
+                    >
+                  </div>
                 </div>
+              </div>
+            </div>
+            <!--Right Column-->
+            <div class="right-column col-lg-7 col-md-12 col-sm-12">
+              <div class="inner">
+                <div class="images clearfix">
+                  <!--Images-->
+                  <div class="image-block">
+                    <figure class="image-box wow fadeInUp" data-wow-delay="0ms">
+                      <img
+                        class="lazy-image"
+                        src="images/resource/image-spacer-for-validation.png"
+                        data-src="images/resource/featured-image-9.jpg"
+                        alt=""
+                      />
+                    </figure>
+                    <figure
+                      class="image-box wow fadeInUp"
+                      data-wow-delay="600ms"
+                    >
+                      <img
+                        class="lazy-image"
+                        src="images/resource/image-spacer-for-validation.png"
+                        data-src="images/resource/featured-image-10.jpg"
+                        alt=""
+                      />
+                    </figure>
+                  </div>
+                  <div class="image-block">
+                    <figure
+                      class="image-box wow fadeInUp"
+                      data-wow-delay="300ms"
+                    >
+                      <img
+                        class="lazy-image"
+                        src="images/resource/image-spacer-for-validation.png"
+                        data-src="images/resource/featured-image-11.jpg"
+                        alt=""
+                      />
+                    </figure>
+                    <figure
+                      class="image-box wow fadeInUp"
+                      data-wow-delay="900ms"
+                    >
+                      <img
+                        class="lazy-image"
+                        src="images/resource/image-spacer-for-validation.png"
+                        data-src="images/resource/featured-image-12.jpg"
+                        alt=""
+                      />
+                    </figure>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="what-we-do style-two centered-style">
+        <div
+          class="image-layer lazy-image"
+          data-bg="url('images/background/what-we-do-2.jpg')"
+        ></div>
+        <div class="top-rotten-curve"></div>
+        <div class="bottom-rotten-curve"></div>
+
+        <div class="auto-container">
+          <div class="sec-title">
+            <div class="sub-title">What We Do?</div>
+            <h2>We are Worldwide Non-Profit & NGO Ogranization</h2>
+            <div class="text">Cupidatat non proident sunt</div>
+          </div>
+
+          <div class="row clearfix">
+            <!--Service Block-->
+            <div class="service-block col-xl-3 col-lg-6 col-md-6 col-sm-12">
+              <div class="inner-box">
+                <div class="icon-box">
+                  <span class="flaticon-water-bottle"></span>
+                </div>
+                <h3>Pure Water</h3>
+                <div class="text">
+                  Lorem ipsum dolor amet consectetur adipisicing elit sed
+                  eiusmod tempor incididunt labore.
+                </div>
+              </div>
             </div>
 
-        </section>
+            <!--Service Block-->
+            <div class="service-block col-xl-3 col-lg-6 col-md-6 col-sm-12">
+              <div class="inner-box">
+                <div class="icon-box"><span class="flaticon-fruit"></span></div>
+                <h3>Healthy Food</h3>
+                <div class="text">
+                  Lorem ipsum dolor amet consectetur adipisicing elit sed
+                  eiusmod tempor incididunt labore.
+                </div>
+              </div>
+            </div>
 
+            <!--Service Block-->
+            <div class="service-block col-xl-3 col-lg-6 col-md-6 col-sm-12">
+              <div class="inner-box">
+                <div class="icon-box">
+                  <span class="flaticon-medicine"></span>
+                </div>
+                <h3>Medical Facilities</h3>
+                <div class="text">
+                  Lorem ipsum dolor amet consectetur adipisicing elit sed
+                  eiusmod tempor incididunt labore.
+                </div>
+              </div>
+            </div>
+
+            <!--Service Block-->
+            <div class="service-block col-xl-3 col-lg-6 col-md-6 col-sm-12">
+              <div class="inner-box">
+                <div class="icon-box">
+                  <span class="flaticon-reading"></span>
+                </div>
+                <h3>Education</h3>
+                <div class="text">
+                  Lorem ipsum dolor amet consectetur adipisicing elit sed
+                  eiusmod tempor incididunt labore.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
         <!--Causes Section-->
-        <section class="causes-section">
-            <div class="auto-container">
-
-                <div class="sec-title centered">
-                    <div class="sub-title">Our Causes</div>
-                    <h2>Popular Causes</h2>
-                    <div class="text">Cupidatat non proident sunt</div>
+        <section class="mission-vision">
+    	<div class="circle-one"></div>
+        <div class="circle-two"></div>
+        
+        <div class="auto-container">
+        
+        	<div class="mission">
+            	<div class="row clearfix">
+                	<div class="text-column col-lg-6 col-md-12 col-sm-12">
+                    	<div class="inner">
+                            <div class="sec-title">
+                                <div class="sub-title">Proident sunt</div>
+                                <h2>Our Mission</h2>
+                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. enim ad minim veniam, quis nostrud exercitation ullamco laboris Nisi ut aliquip commodo consequat.</div>
+                                <div class="link-box"><a href="cause-single.html" class="theme-btn btn-style-one"><span class="btn-title">Read More</span></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="image-column col-lg-6 col-md-12 col-sm-12">
+                    	<div class="inner">
+                            <div class="row clearfix">
+                                <div class="image wow fadeInUp" data-wow-delay="0ms"><img class="lazy-image" src="images/resource/image-spacer-for-validation.png" data-src="images/resource/mission-image-1.jpg" alt=""></div>
+                                <div class="image wow fadeInDown" data-wow-delay="0ms"><img class="lazy-image" src="images/resource/image-spacer-for-validation.png" data-src="images/resource/mission-image-2.jpg" alt=""></div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
-                <div class="row clearfix">
-
-                    <!--Cause Block-->
-                    <div class="cause-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box wow fadeInUp" data-wow-delay="0ms">
-                            <div class="image-box">
-                                <figure class="image">
-                                    <a href="cause-single.html"><img class="lazy-image" src="images/resource/image-spacer-for-validation.png" data-src="images/resource/cause-image-1.jpg" alt=""></a>
-                                </figure>
-                            </div>
-                            <div class="donate-info">
-                                <div class="progress-box">
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="70%">
-                                            <div class="count-text">70%</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="donation-count clearfix"><span class="raised"><strong>Raised:</strong> $6,000</span> <span class="goal"><strong>Goal:</strong> $8,000</span></div>
-                            </div>
-                            <div class="lower-content">
-                                <h3><a href="cause-single.html">Raise Fund <br>for Healthy Food</a></h3>
-                                <div class="text">Excepteur sint occaecat cupidatat non proident sunt.</div>
-                                <div class="link-box"><a href="cause-single.html" class="theme-btn btn-style-two"><span class="btn-title">Read More</span></a></div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Cause Block-->
-                    <div class="cause-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box wow fadeInUp" data-wow-delay="300ms">
-                            <div class="image-box">
-                                <figure class="image">
-                                    <a href="cause-single.html"><img class="lazy-image" src="images/resource/image-spacer-for-validation.png" data-src="images/resource/cause-image-2.jpg" alt=""></a>
-                                </figure>
-                            </div>
-                            <div class="donate-info">
-                                <div class="progress-box">
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="70%">
-                                            <div class="count-text">70%</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="donation-count clearfix"><span class="raised"><strong>Raised:</strong> $6,000</span> <span class="goal"><strong>Goal:</strong> $8,000</span></div>
-                            </div>
-                            <div class="lower-content">
-                                <h3><a href="cause-single.html">Education <br>for Poor Children</a></h3>
-                                <div class="text">Excepteur sint occaecat cupidatat non proident sunt.</div>
-                                <div class="link-box"><a href="cause-single.html" class="theme-btn btn-style-two"><span class="btn-title">Read More</span></a></div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Cause Block-->
-                    <div class="cause-block col-lg-4 col-md-6 col-sm-12">
-                        <div class="inner-box wow fadeInUp" data-wow-delay="600ms">
-                            <div class="image-box">
-                                <figure class="image">
-                                    <a href="cause-single.html"><img class="lazy-image" src="images/resource/image-spacer-for-validation.png" data-src="images/resource/cause-image-3.jpg" alt=""></a>
-                                </figure>
-                            </div>
-                            <div class="donate-info">
-                                <div class="progress-box">
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="70%">
-                                            <div class="count-text">70%</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="donation-count clearfix"><span class="raised"><strong>Raised:</strong> $6,000</span> <span class="goal"><strong>Goal:</strong> $8,000</span></div>
-                            </div>
-                            <div class="lower-content">
-                                <h3><a href="cause-single.html">Promoting The <br>Rights of Children</a></h3>
-                                <div class="text">Excepteur sint occaecat cupidatat non proident sunt.</div>
-                                <div class="link-box"><a href="cause-single.html" class="theme-btn btn-style-two"><span class="btn-title">Read More</span></a></div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div>
-
             </div>
-        </section>
+            
+            <div class="vision">    
+                <div class="row clearfix">
+                	<div class="text-column col-lg-6 col-md-12 col-sm-12">
+                    	<div class="inner">
+                            <div class="sec-title">
+                                <div class="sub-title">Proident sunt</div>
+                                <h2>Our Vision</h2>
+                                <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. enim ad minim veniam, quis nostrud exercitation ullamco laboris Nisi ut aliquip commodo consequat.</div>
+                                <div class="link-box"><a href="cause-single.html" class="theme-btn btn-style-one"><span class="btn-title">Read More</span></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="image-column col-lg-6 col-md-12 col-sm-12">
+                    	<div class="inner">
+                            <div class="image wow fadeInLeft" data-wow-delay="0ms"><img class="lazy-image" src="images/resource/image-spacer-for-validation.png" data-src="images/resource/vision-image-1.jpg" alt=""></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </section>
 
         <!--Video Section-->
         <section class="video-section">
