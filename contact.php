@@ -78,7 +78,7 @@
                   </div>
                   <h4>Our Location</h4>
                   <ul>
-                    <li>16/14 Babor Road, Shyamoly Dhaka.</li>
+                    <li>SMART DIAGNOSTIC CENTER, Kids Kingdom School, Fatima Mourh, Sahadatpura, Mau, Uttar Pradesh 275101</li>
                   </ul>
                 </div>
               </div>
@@ -95,10 +95,7 @@
                   <h4>Phone Number</h4>
                   <ul>
                     <li>
-                      <a href="tel:(+55)654-545-5418">(+55) 654 - 545 - 5418</a>
-                    </li>
-                    <li>
-                      <a href="tel:(+55)654-545-1235">(+55) 654 - 545 - 1235</a>
+                      <a href="tel:(+55)654-545-5418">(+91) 6387217257 <br> <br> <br> <br> </a>
                     </li>
                   </ul>
                 </div>
@@ -116,11 +113,10 @@
                   <h4>Email Address</h4>
                   <ul>
                     <li>
-                      <a href="mailto:info@example.com">info@example.com</a>
+                      <a href="mailto:info@example.com">taramangalf@gmail.com<br> <br> <br>
+                       <br></a>
                     </li>
-                    <li>
-                      <a href="mailto:info@loveus.com">info@loveus.com</a>
-                    </li>
+                    
                   </ul>
                 </div>
               </div>
@@ -137,7 +133,7 @@
               <div class="sec-title centered">
                 <div class="sub-title">Inquiry</div>
                 <h2>Leave a Message</h2>
-                <div class="text">Cupidatat non proident sunt</div>
+                <div class="text">Feel free to reach out</div>
               </div>
 
               <!-- Contact Form-->
