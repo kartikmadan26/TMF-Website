@@ -938,7 +938,7 @@
                                 <h3>Contacts</h3>
                                 <ul class="contact-info">
                                     <li>Tara Medicals, Mau, Uttar Pradesh</li>
-                                    <li><a href="tel:+2(305)587-3407">+2(305) 587-3407</a></li>
+                                    <li><a href="tel:+2(305)587-3407">+91 6387217257</a></li>
                                     <li><a href="mailto:info@chireno.com">info@loveuscharity.com</a></li>
                                 </ul>
                             </div>
