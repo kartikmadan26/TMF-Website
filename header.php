@@ -37,7 +37,7 @@
               <div class="logo">
                 <a href="index.html" title="Tara Mangal Foundation"
                   ><img
-                    src="images/logo-2.png"
+                    src="images/TMF LOGO NOBG.png"
                     alt="Tara Mangal Foundation"
                     title="Tara Mangal Foundation"
                 /></a>
