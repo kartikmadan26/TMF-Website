@@ -35,7 +35,7 @@
             <!--Logo-->
             <div class="logo-box">
               <div class="logo">
-                <a href="index.html" title="Tara Mangal Foundation"
+                <a href="index.php" title="Tara Mangal Foundation"
                   ><img
                     src="images/TMF LOGO NOBG.png"
                     alt="Tara Mangal Foundation"
@@ -62,12 +62,12 @@
                       <a href="index.php">Home</a>
                     </li>
                     <li>
-                      <a href="causes.html">Projects</a>
+                      <a href="projects.php">Projects</a>
                     </li>
                     <li>
-                      <a href="blog.html">Portfolio</a>
+                      <a href="portfolio.php">Portfolio</a>
                     </li>
-                    <li><a href="contact.html">Contact Us</a></li>
+                    <li><a href="contact.php">Contact Us</a></li>
                   </ul>
                 </div>
               </nav>
