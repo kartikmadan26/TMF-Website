@@ -41,7 +41,7 @@
       <section class="page-banner">
         <div
           class="image-layer lazy-image"
-          data-bg="url('images/background/bg-banner-1.jpg')"
+          data-bg="url('13.jpg')"
         ></div>
         <div class="bottom-rotten-curve"></div>
 
@@ -61,7 +61,7 @@
           <div class="sec-title centered">
             <div class="sub-title">Contact Us</div>
             <h2>Get In Touch</h2>
-            <div class="text">Cupidatat non proident sunt</div>
+            <div class="text">Feel free to reach us</div>
           </div>
 
           <div class="info-boxes">
@@ -71,7 +71,7 @@
                 <div class="inner-box wow fadeInUp" data-wow-delay="0ms">
                   <div
                     class="image-layer lazy-image"
-                    data-bg="url('images/resource/contact-image-1.jpg')"
+                    data-bg="url('location.jpg')"
                   ></div>
                   <div class="icon-box">
                     <span class="flaticon-home-location-marker"></span>
@@ -87,7 +87,7 @@
                 <div class="inner-box wow fadeInUp" data-wow-delay="300ms">
                   <div
                     class="image-layer lazy-image"
-                    data-bg="url('images/resource/contact-image-2.jpg')"
+                    data-bg="url('phone.png')"
                   ></div>
                   <div class="icon-box">
                     <span class="flaticon-phone-call"></span>
@@ -105,7 +105,7 @@
                 <div class="inner-box wow fadeInUp" data-wow-delay="600ms">
                   <div
                     class="image-layer lazy-image"
-                    data-bg="url('images/resource/contact-image-3.jpg')"
+                    data-bg="url('mail.jpg')"
                   ></div>
                   <div class="icon-box">
                     <span class="flaticon-email"></span>
@@ -136,9 +136,9 @@
                 <div class="text">Feel free to reach out</div>
               </div>
 
-              <!-- Contact Form-->
+              <!-- Contact Form -->
               <div class="contact-form">
-                <form method="post" action="sendemail.php" id="contact-form">
+                <form method="post" action="https://taramangalf@gmail.com" id="contact-form">
                   <div class="row clearfix">
                     <div class="col-md-6 col-sm-12 form-group">
                       <input
@@ -157,6 +157,7 @@
                         required=""
                       />
                     </div>
+
 
                     <div class="col-md-12 col-sm-12 form-group">
                       <textarea
@@ -178,39 +179,34 @@
                 </form>
               </div>
             </div>
-          </div>
+          </div> 
+
+
 
           <div class="map-column clearfix">
-            <div
-              class="map-canvas"
+            <!-- <div
+              <!-- class="map-canvas"
               data-zoom="12"
-              data-lat="-37.817085"
-              data-lng="144.955631"
-              data-type="roadmap"
+              data-lat="25.923950316475153"
+              data-lng="83.56791526075456"
+              data-type=""
               data-hue="#ffc400"
               data-title="Envato"
-              data-icon-path="images/icons/map-marker.png"
-              data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>"
-            ></div>
+              data-icon-path=""
+              data-content="" -->
+
+
+            ></div> -->
+            
+            <p>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3588.350055141585!2d83.56547981502425!3d25.92372838356346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39918bc3ced94f13%3A0x1a9e983ea6b60d7!2sTARA%20MEDICALS!5e0!3m2!1sen!2sin!4v1636802772618!5m2!1sen!2sin" width="1000" height="800" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </p>
           </div>
+
         </div>
       </section>
 
-      <!-- Call To Action Section -->
-      <section class="call-to-action-two">
-        <div class="auto-container">
-          <div class="inner clearfix">
-            <div class="title-box wow fadeInLeft" data-wow-delay="0ms">
-              <h2>Become A Volunteer</h2>
-            </div>
-            <div class="link-box wow fadeInRight" data-wow-delay="0ms">
-              <a href="contact.html" class="theme-btn btn-style-five"
-                ><span class="btn-title">Get Involved</span></a
-              >
-            </div>
-          </div>
-        </div>
-      </section>
+
       <!--End Gallery Section -->
 
       <!-- Main Footer -->
@@ -306,7 +302,7 @@
                           ><img
                             class="lazy-image"
                             src="images/resource/image-spacer-for-validation.png"
-                            data-src="images/resource/post-thumb-1.jpg"
+                            data-src="mission-image-1.jpg"
                             alt=""
                         /></a>
                       </div>
@@ -387,9 +383,11 @@
     <script src="js/scrollbar.js"></script>
     <script src="js/validate.js"></script>
     <script src="js/script.js"></script>
+
+ 
     <!--Google Map APi Key-->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDcaOOcFcQ0hoTqANKZYz-0ii-J0aUoHjk"></script>
-    <script src="js/map-script.js"></script>
+   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDcaOOcFcQ0hoTqANKZYz-0ii-J0aUoHjk"></script>
+    <script src="js/map-script.js"></script> -->
     <!--End Google Map APi-->
   </body>
 </html>
